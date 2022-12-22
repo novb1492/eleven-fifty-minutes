@@ -46,12 +46,12 @@ ul{
 .nav_h_l_t{
     color:pink;
     font-family: 'Caramel', cursive;
-    font-size: 6rem; 
+    font-size: 4rem; 
 }
 .nav_h_t{
     color:pink;
     font-family: 'Caramel', cursive;
-    font-size: 4rem; 
+    font-size: 2rem; 
 }
 .main_section{
     display: flex;
