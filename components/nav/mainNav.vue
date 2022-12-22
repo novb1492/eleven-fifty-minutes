@@ -1,7 +1,9 @@
 <template lang="">
-    <header class="">
-        메인네비바
-    </header>
+    <nav>
+        <ul>
+            <li >ELEVEN-FIFTY</li>
+        </ul>
+    </nav>
 </template>
 <script>
 export default {

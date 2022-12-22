@@ -1,5 +1,6 @@
 <template>
-    <Tutorial/>
+    <div class="main_img">
+    </div>
 </template>
 
 <script>

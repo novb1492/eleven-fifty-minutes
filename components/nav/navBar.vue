@@ -1,7 +1,7 @@
 <template lang="">
-    <div>
-        <mainNav v-if="num===1"></mainNav>
-    </div>
+    <header class="header">
+        <mainNav  v-if="num===1"></mainNav>
+    </header>
 </template>
 <script>
 import mainNav from './mainNav.vue';
