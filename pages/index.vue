@@ -1,6 +1,9 @@
 <template>
-    <div class="main_img">
-    </div>
+    <section class="main">
+      <div class="main_section">
+         <nuxt-link to="/write"><h2 class="main_text" >HOW WAS YOUR TODAY?</h2></nuxt-link>
+      </div>
+    </section>
 </template>
 
 <script>
